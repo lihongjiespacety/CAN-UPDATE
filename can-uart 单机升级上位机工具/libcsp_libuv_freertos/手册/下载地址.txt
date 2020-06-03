@@ -1,0 +1,13 @@
+CAN参数可配置
+命令 响应内容可设置 响应时间可设置
+
+
+标准库
+https://my.st.com/content/my_st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32-standard-peripheral-libraries/stsw-stm32054.html#get-software
+
+参考手册 编程手册
+https://my.st.com/content/my_st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus.html#resource
+https://my.st.com/content/my_st_com/en/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus.html#resource
+
+freertos
+https://www.freertos.org/a00104.html
